@@ -1,0 +1,20 @@
+{
+"pageSetup" : {
+   "firstTemplate": "Fondo"
+},
+
+"styles" : [
+    ["normal" , {
+        "fontSize": 28
+    }]
+],
+
+"pageTemplates" : {
+    "Fondo": {
+        "frames": [
+            ["550px", "-810px", "100%", "100%"]
+        ],
+        "background" : "certificado.png"
+    }
+}
+}
